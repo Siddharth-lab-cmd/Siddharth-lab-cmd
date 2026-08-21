@@ -1,3 +1,5 @@
+<a href="YOUR_LINKEDIN_URL_HERE" target="_blank"><img src="https://shields.io" alt="LinkedIn Badge" /></a>
+
 # <p align="center">🧬 Welcome to my Computational Biology Hub! 🚀</p>
 <p align="center">
   <img src="https://demolab.com" alt="Typing SVG" />
