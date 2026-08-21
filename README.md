@@ -45,7 +45,7 @@ My primary codebase is managed around the clock by an extensive suite of automat
 - ⏱️ **runtime-efficiency-tracker.yml** — Profiles computational speeds to guaranteememory-leak-detector.yml 🧠 **memory-leak-detector.yml** — Allocates monitoring blocks to track and eliminate background RAM leaks.
 
 #### 👥 Visitor Experience & System Cleaners
-- 👋 **visitor-contributor-greeter.yml** — Launches welcoming response alerts for portfolio-health-reporter.yml📋 **portfolio-health-reporter.yml** — Compiles centralized data matrix ststale-cleaner.ymlore logs.
+- 👋 **visitor-contributor-greeter.yml** — Launches welcoming response alerts for portfolio-health-reporter.yml📋 **portfolio-health-reporter.yml** — Compiles centralized data matrix stability and health logs.
 - 🧹 **stale-cleaner.yml** — Automated nighttime tracking robot that purges legacy code questions.
 
 ---
