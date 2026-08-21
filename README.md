@@ -1,4 +1,7 @@
 # <p align="center">🧬 Welcome to my Computational Biology Hub! 🚀</p>
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://shields.io" />
@@ -36,14 +39,27 @@ I bridge the gap between **wet-lab agricultural/food sciences** and **dry-lab co
 - **Data Architecture** (Structured FASTA / FASTQ record cleaning)
 
 ### 🤖 DevOps & Infrastructure Automation
-- **GitHub Actions Integration** (32 active automated cloud workflows)
+- **GitHub Actions Integration** (35 active automated cloud workflows)
 - **Container Systems** (Docker pipeline deployment simulations)
 - **Operating Systems** (Core Linux command line file environments)
 
 ---
 
-## 🤖 Automated Cloud Operations Suite (32 Continuous Integration Workflows)
+## 🤖 Automated Cloud Operations Suite (35 Continuous Integration Workflows)
 My primary code repository is managed around the clock by an extensive suite of automated cloud systems divided into specialized operational zones:
+
+### 🏭 Enterprise Biotech & Pharma Integration Pipelines
+* **`syngene-multiomics-ingest.yml`** — Automates data ingestion metrics across genomics, transcriptomics, and proteomics datasets.
+* **`strand-metadata-harmonizer.yml`** — Employs automated data curation scripts to standardize unstructured clinical file headers.
+* **`biocon-biomanufacturing-qc.yml`** — Runs quality control loops scanning production strains for micro-mutations and drift.
+
+### 🎨 Visitor Experience & High-End Visual Monitors
+* **`generate-svg-profile-metrics.yml`** — Dynamically compiles project completion metrics into styled visual SVG layouts.
+* **`generate-animated-contribution-graph.yml`** — Generates a color-coded animation grid tracking developer contribution history.
+* **`auto-generate-repository-tree.yml`** — Scans workspace directory structures to map a clean, scannable interactive tree layout.
+* **`visitor-contributor-greeter.yml`** — Automatically triggers welcoming response alerts for incoming open-source traffic.
+* **`portfolio-health-reporter.yml`** — Compiles centralized data matrix stability logs and system health ratings.
+* **`readme-badge-validator.yml`** — Runs automated visual check loops to confirm user interface graphics render flawlessly.
 
 ### 🏫 Academic Verification & Professor Desk
 * **`professor-cv-compiler.yml`** — Compiles a centralized, printable CV packet for university lookup.
