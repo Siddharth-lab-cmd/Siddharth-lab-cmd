@@ -3,59 +3,189 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Siddharth | Aspiring Bioinformatics Scientist</title>
+    <title>Siddharth | Bioinformatics Portfolio</title>
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; background-color: #f4f7f6; color: #333; margin: 0; padding: 0; }
-        .container { max-width: 800px; margin: 30px auto; background: #fff; padding: 40px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
-        header { border-bottom: 3px solid #2ecc71; padding-bottom: 20px; text-align: center; }
-        h1 { margin: 0; color: #2c3e50; font-size: 2.5em; }
-        .subtitle { color: #7f8c8d; font-size: 1.2em; font-weight: bold; margin-top: 5px; }
-        h2 { color: #2c3e50; border-left: 5px solid #3498db; padding-left: 10px; margin-top: 30px; }
-        .badge { display: inline-block; background: #e8f4fd; color: #2980b9; padding: 5px 12px; border-radius: 20px; font-size: 0.9em; font-weight: bold; margin: 5px 2px; }
-        .badge-green { background: #eafaf1; color: #27ae60; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 10px; }
-        .footer { text-align: center; margin-top: 40px; font-size: 0.9em; color: #bdc3c7; border-top: 1px solid #ecf0f1; padding-top: 20px; }
-        .btn { display: inline-block; background: #2c3e50; color: #fff; padding: 10px 20px; text-align: center; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px; }
-        .btn:hover { background: #34495e; }
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-green: #2ecc71;
+            --accent-blue: #3498db;
+            --border-color: #334155;
+        }
+        
+        .light-theme {
+            --bg-color: #f1f5f9;
+            --card-bg: #ffffff;
+            --text-color: #0f172a;
+            --text-muted: #64748b;
+            --accent-green: #21a351;
+            --accent-blue: #2980b9;
+            --border-color: #cbd5e1;
+        }
+
+        body { 
+            font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; 
+            line-height: 1.6; 
+            background-color: var(--bg-color); 
+            color: var(--text-color); 
+            margin: 0; 
+            padding: 0;
+            transition: background 0.3s, color 0.3s;
+        }
+
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--card-bg);
+            color: var(--text-color);
+            border: 2px solid var(--border-color);
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: bold;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .container { max-width: 850px; margin: 50px auto; padding: 20px; }
+        
+        header { 
+            background: var(--card-bg);
+            padding: 40px; 
+            border-radius: 12px; 
+            border-bottom: 4px solid var(--accent-green);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        h1 { margin: 0; font-size: 2.8em; letter-spacing: -0.5px; }
+        .subtitle { color: var(--accent-blue); font-size: 1.3em; font-weight: 600; margin-top: 10px; }
+        .location { color: var(--text-muted); font-size: 0.95em; margin-top: 5px; }
+
+        .metrics-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        .metric-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        .metric-card h3 { margin: 0; font-size: 2em; color: var(--accent-green); }
+        .metric-card p { margin: 5px 0 0 0; font-size: 0.9em; color: var(--text-muted); font-weight: 600; }
+
+        h2 { border-left: 5px solid var(--accent-blue); padding-left: 12px; margin-top: 40px; font-size: 1.6em; }
+        
+        p, li { color: var(--text-color); font-size: 1.05em; }
+        strong { color: var(--accent-green); }
+
+        .skills-container { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
+        .badge { 
+            background: var(--card-bg); 
+            color: var(--text-color); 
+            border: 1px solid var(--border-color);
+            padding: 6px 14px; 
+            border-radius: 20px; 
+            font-size: 0.9em; 
+            font-weight: 600;
+        }
+
+        .cta-box {
+            background: var(--card-bg);
+            border: 2px dashed var(--accent-green);
+            padding: 30px;
+            border-radius: 12px;
+            text-align: center;
+            margin-top: 40px;
+        }
+
+        .btn { 
+            display: inline-block; 
+            background: var(--accent-blue); 
+            color: #fff; 
+            padding: 12px 28px; 
+            border-radius: 30px; 
+            text-decoration: none; 
+            font-weight: bold; 
+            margin-top: 15px; 
+            font-size: 1.1em;
+            box-shadow: 0 4px 6px rgba(52, 152, 219, 0.2);
+            transition: transform 0.2s, background 0.2s;
+        }
+        .btn:hover { background: #2980b9; transform: translateY(-2px); }
+
+        .footer { text-align: center; margin-top: 5px; font-size: 0.9em; color: var(--text-muted); padding-top: 20px; }
     </style>
 </head>
 <body>
 
+<button class="theme-toggle" onclick="toggleTheme()">🌓 Switch Theme</button>
+
 <div class="container">
     <header>
         <h1>Siddharth</h1>
-        <div class="subtitle">Aspiring Bioinformatics Scientist & Data Analyst</div>
-        <p>📍 Pursuing B.Sc. (Hons.) Food Science & Technology | Babasaheb Bhimrao Ambedkar University (BBAU)</p>
+        <div class="subtitle">Bioinformatics Scientist & Data Analyst in Training</div>
+        <div class="location">📍 Department of Food & Nutrition | Babasaheb Bhimrao Ambedkar University (BBAU)</div>
     </header>
 
-    <h2>🧬 About Me</h2>
-    <p>I am a driven student researcher bridging the gap between <strong>wet-lab food microbiology/agricultural sciences</strong> and <strong>dry-lab computational data analytics</strong>. I specialize in building automated Python pipelines to process, clean, and analyze complex genomic and molecular sequences.</p>
-
-    <h2>🛠️ Core Technical Stack</h2>
-    <div>
-        <span class="badge">Python (Pandas, NumPy)</span>
-        <span class="badge">Genomic Data Filtering</span>
-        <span class="badge">Biopython Foundations</span>
-        <span class="badge-green">GitHub Actions & DevOps</span>
-        <span class="badge-green">FASTA/FASTQ Parsing</span>
+    <!-- Visual Dashboard Metrics Counter Section -->
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <h3>28</h3>
+            <p>Bioinformatics Scripts</p>
+        </div>
+        <div class="metric-card">
+            <h3>32</h3>
+            <p>Cloud Actions Workflows</p>
+        </div>
+        <div class="metric-card">
+            <h3>100%</h3>
+            <p>CI/CD Build Passing</p>
+        </div>
     </div>
 
-    <h2>🚀 Current Research Focus</h2>
-    <ul>
-        <li><strong>Sequence Alignment:</strong> Simulating mutations and measuring sequence stability.</li>
-        <li><strong>Food Pathogen Screening:</strong> Designing Python scripts to identify contaminant bacteria footprints.</li>
-        <li><strong>Automation:</strong> Using cloud systems to instantly test biological code accuracy.</li>
-    </ul>
+    <h2>🧬 Core Focus & Scientific Identity</h2>
+    <p>I am an ambitious student researcher specialized in bridging the gap between <strong>wet-lab agricultural sciences</strong> and <strong>dry-lab computational pipelines</strong>. By embedding production-grade automation engineering into my academic journey early, I design reliable models to filter complex data and track genetic anomalies.</p>
 
-    <h2>💻 Open Source Portfolio</h2>
-    <p>I maintain an active cloud workspace featuring 19 custom-built biological analysis tools, sequence translators, and structural mass calculators.</p>
-    <a href="https://github.com" class="btn" target="_blank">🌐 View My 19 Live Code Repositories</a>
+    <h2>🛠️ Automated Technical Stack</h2>
+    <div class="skills-container">
+        <span class="badge">🐍 Python 3.x Development</span>
+        <span class="badge">📊 High-Throughput Matrix Filtering</span>
+        <span class="badge">🤖 GitHub Actions Cloud Automation</span>
+        <span class="badge">🐳 Docker Environment Deployments</span>
+        <span class="badge">📖 Journal Reference Validation</span>
+        <span class="badge">🧫 Food Microbiology Analytics</span>
+    </div>
+
+    <h2>📈 Academic & Career Path</h2>
+    <p>Currently setting up a strong scientific foundation through a <strong>B.Sc. (Hons.) Food Science & Technology</strong> program at the Amethi Satellite Campus. My career architecture is strictly aimed toward an <strong>M.Sc. in Bioinformatics</strong> to design large-scale metabolic modeling scripts and vaccine design algorithms.</p>
+
+    <!-- Eye-Catching Call To Action Block to force clicks onto your GitHub -->
+    <div class="cta-box">
+        <h3>🔬 Looking for My Live Data Laboratories?</h3>
+        <p>My continuous integration repository features full algorithmic code bases, automated execution speed benchmarking, and automated code-style linters.</p>
+        <a href="https://github.com" class="btn" target="_blank">🌐 Verify My 28 Live Code Scripts on GitHub</a>
+    </div>
 
     <div class="footer">
-        "Using code to unlock the secrets hidden inside biological data." 🧬✨
+        <p>"Using code to unlock the secrets hidden inside biological data." 🧬✨</p>
     </div>
 </div>
+
+<script>
+    function toggleTheme() {
+        document.body.classList.toggle('light-theme');
+    }
+</script>
 
 </body>
 </html>
