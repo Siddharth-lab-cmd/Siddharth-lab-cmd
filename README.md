@@ -1,15 +1,10 @@
-<a href="YOUR_LINKEDIN_URL_HERE" target="_blank"><img src="https://shields.io" alt="LinkedIn Badge" /></a>
-
 # <p align="center">🧬 Welcome to my Computational Biology Hub! 🚀</p>
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
 
 <p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <b>💼 Role:</b> Future Bioinformatics Scientist | 
+  <b>🐍 Language:</b> Python 3.x Engine | 
+  <b>⚙️ DevOps:</b> 35 Active Cloud Workflows | 
+  <b>✅ Status:</b> Verified Portfolio
 </p>
 
 ---
@@ -22,28 +17,22 @@ I bridge the gap between **wet-lab agricultural/food sciences** and **dry-lab co
 ---
 
 ## 🌐 Quick Portfolio Hub Connectors
-<p align="left">
-  <a href="https://github.io" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
+- 🌐 **Live Personal Website:** [Open My Responsive Resume Webpage](https://github.io)
+- 📁 **Primary Codebase:** [Explore My 28 Live Bioinformatics Utilities](https://github.com)
 
 ---
 
 ## 🛠️ Core Technical Stack & Toolkit
 
 ### 💻 Data Science & Programming
-- **Python 3.x Engine** (Custom genomic string parsers, mutation trackers)
-- **Data Engineering** (Pandas array filtering, NumPy matrix formatting)
-- **Data Architecture** (Structured FASTA / FASTQ record cleaning)
+- **Python 3.x Engine** ── Custom genomic string parsers & mutation trackers
+- **Data Engineering** ── Pandas array filtering & NumPy matrix formatting
+- **Data Architecture** ── Structured FASTA / FASTQ record cleaning
 
 ### 🤖 DevOps & Infrastructure Automation
-- **GitHub Actions Integration** (35 active automated cloud workflows)
-- **Container Systems** (Docker pipeline deployment simulations)
-- **Operating Systems** (Core Linux command line file environments)
+- **GitHub Actions Integration** ── 35 active automated cloud workflows
+- **Container Systems** ── Docker pipeline deployment simulations
+- **Operating Systems** ── Core Linux command line file environments
 
 ---
 
