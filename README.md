@@ -1,5 +1,39 @@
-# 👋 Hello, I'm Siddharth! 
+# <p align="center">🧬 Welcome to my Computational Biology Hub! 🚀</p>
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+## 🎯 Professional Overview
+I am an aspiring Bioinformatics Scientist and Data Analyst currently pursuing a B.Sc. (Hons.) Food Science & Technology at Babasaheb Bhimrao Ambedkar University (BBAU). 
+
+I bridge the gap between wet-lab agricultural/food sciences and dry-lab computational data science. I use Python to engineer automated data pipelines that filter, clean, and analyze complex genomic, transcriptomic, and molecular sequence matrices.
+
+---
+
+## 🌐 Quick Portfolio Hub Connectors
+<p align="left">
+  <a href="https://github.io" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Core Technical Stack & Toolkit
+
+### 💻 Data Science & Programming
 <p align="left">
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -7,56 +41,46 @@
   <img src="https://shields.io" />
 </p>
 
-I am an aspiring Bioinformatics Scientist and Computational Biologist currently pursuing my B.Sc. (Hons.) Food Science & Technology at Babasaheb Bhimrao Ambedkar University (BBAU). 
-
-I bridge the gap between wet-lab agricultural/food sciences and dry-lab computational data science by using code to filter, analyze, and visualize complex biological datasets.
-
----
-
-### 🚀 Core Portfolio & Project Hubs
-🌐 Live Personal Website: [View My Responsive Resume Webpage](https://github.io)  
-📁 Primary Codebase: [Explore My 28 Live Bioinformatics Utilities](https://github.com)
-
----
-
-### 🛠️ Tech Stack & Skills
-- Languages: Python (Pandas, NumPy, Biopython Foundations)
-- Data Engineering: Genomic Filtering, Matrix Mapping, Open Reading Frame (ORF) Prediction, Mutation Distances
-- DevOps & Automation: Continuous Integration via 32 Cloud GitHub Actions Workflows
-- Domain Knowledge: Molecular Biology, Genetics, Food Chemistry, Biochemistry, and Microbiology
-
----
-
-### 🤖 Automated Production Hub (32 Continuous Integration Workflows)
-My primary codebase is managed around the clock by an extensive suite of automated cloud systems divided into specialized operational zones:
-
-#### 🏫 Academic & Professor Evaluation Tools
-- 📄 **professor-cv-compiler.yml** — Compiles a centralized, printable CV packet for university lookup.
-- 📖 **citation-format-validator.yml** — Audits data logs to confirm reference styles match journal rules.
-- 🎓 **academic-grading-checklist.yml** — Evaluates code structure against official distinction scoring indexes.
-
-#### 🧪 Code Integrity & Execution Lab
-- ⚡ **python-syntax-guard.yml** — Rapid pre-compilation check to trap syntax anomalies instantly.
-- 🧫 **auto-test-runner.yml** — Boots virtual laboratories to run active test loops with genomic inputs.
-- 🔍 **code-error-advisor.yml** — Scans logic scripts for undefined variables and generates debugging hints.
-
-#### ⚙️ Operations, Infrastructure & Scale Testing
-- 🐳 **docker-pipeline-dryrun.yml** — Packages and tests biological modules inside big-data-scale-test.yml **big-data-scale-test.yml** — Runs extreme background stress loads using 100,000+ line dataset simulations.
-- ⏱️ **runtime-efficiency-tracker.yml** — Profiles computational speeds to guaranteememory-leak-detector.yml 🧠 **memory-leak-detector.yml** — Allocates monitoring blocks to track and eliminate background RAM leaks.
-
-#### 👥 Visitor Experience & System Cleaners
-- 👋 **visitor-contributor-greeter.yml** — Launches welcoming response alerts for portfolio-health-reporter.yml📋 **portfolio-health-reporter.yml** — Compiles centralized data matrix stability and health logs.
-- 🧹 **stale-cleaner.yml** — Automated nighttime tracking robot that purges legacy code questions.
-
----
-
-### 📊 My Live GitHub Stats
+### 🤖 DevOps & Infrastructure Automation
 <p align="left">
-  <img src="https://vercel.app" alt="Siddharth's GitHub Stats" width="400" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
 ---
 
-### 📈 Long-Term CareerM.Sc. in Bioinformaticswards an **M.Sc. in Bioinformatics** to specialize in large-scale genomic analytics, metabolic pathway modeling, and computational biotechnology.
+## 🤖 Automated Cloud Operations Suite (32 Continuous Integration Workflows)
+My primary code repository is managed around the clock by an extensive suite of automated cloud systems divided into specialized operational zones:
 
-*“Using code to unlock the secrets hidden inside biological data.”* 🧬✨
+### 🏫 Academic Verification & Professor Desk
+* **professor-cv-compiler.yml** — Compiles a centralized, printable CV packet for university lookup.
+* **citation-format-validator.yml** — Audits data logs to confirm reference styles match journal rules.
+* **academic-grading-checklist.yml** — Evaluates code structure against official distinction scoring indexes.
+
+### 🧪 Code Integrity & Execution Lab
+* **python-syntax-guard.yml** — Rapid pre-compilation check to trap syntax anomalies instantly.
+* **auto-test-runner.yml** — Boots virtual laboratories to run active test loops with genomic inputs.
+* **code-error-advisor.yml** — Scans logic scripts for undefined variables and generates debugging hints.
+
+### ⚙️ Systems Engineering & Scale Benchmarking
+* **docker-pipeline-dryrun.yml** — Packages and tests biological modules insbig-data-scale-test.yml **big-data-scale-test.yml** — Runs extreme background stress loads using 100,000+ line dataset simulations.
+* **runtime-efficiency-tracker.yml** — Profiles computational speeds to guaranmemory-leak-detector.yml.
+* **memory-leak-detector.yml** — Allocates monitoring blocks to track and eliminate background RAM leaks.
+
+---
+
+## 📊 Live Activity Metrics
+<p align="center">
+  <img src="https://vercel.app" alt="Siddharth's GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="Siddharth's Coding Streak" width="48%" />
+</p>
+
+---
+
+## 📈 Long-Term Research Journey Moving decisively towards an **M.Sc. in Bioinformatics** to specialize in large-scale genomic analytics, metabolic pathway modeling, and computational biotechnology.
+
+<p align="center">
+  <em>“Using code to unlock the secrets hidden inside biological data.”</em> 🧬✨
+</p>
