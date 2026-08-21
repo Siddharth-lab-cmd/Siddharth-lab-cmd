@@ -49,6 +49,6 @@ I actively use data analytics to optimize core domains of my universitFood Micro
 ---
 
 ### 📈 Long-Term Career Goals
-Moving decisiM.Sc. in BioinformaticsBioinformatics** to specialize in large-scale genomic analytics, metabolic pathway modeling, and computational biotechnology.
+Moving decisively towards **M.Sc. in BioinformaticsBioinformatics** to specialize in large-scale genomic analytics, metabolic pathway modeling, and computational biotechnology.
 
 *“Using code to unlock the secrets hidden inside biological data.”* 🧬✨
