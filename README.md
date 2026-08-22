@@ -3,7 +3,7 @@
 <p align="center">
   <b>💼 Role:</b> Future Bioinformatics Scientist | 
   <b>🐍 Language:</b> Python 3.x Engine | 
-  <b>⚙️ DevOps:</b> 35 Active Cloud Workflows | 
+  <b>⚙️ DevOps:</b> 41 Active Cloud Workflows | 
   <b>✅ Status:</b> Verified Portfolio
 </p>
 
