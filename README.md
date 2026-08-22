@@ -57,6 +57,13 @@ My primary code repository is managed around the clock by an extensive suite of 
 * **`citation-format-validator.yml`** — Audits data logs to confirm reference styles match journal rules.
 * **`academic-grading-checklist.yml`** — Evaluates code structure against official distinction scoring indexes.
 
+* ## 🌐 Professional Research Networks
+- 🌐 **Interactive Portfolio Website:** [siddharth-lab-cmd.github.io](https://github.io)
+- 💼 **Professional Network:** [Connect with Me on LinkedIn](https://www.linkedin.com)
+- 🔬 **Academic Scientist ID:** [View My ORCID Researcher Registry](https://orcid.org)
+- 📖 **Scientific Publications Hub:** [Follow My Research Gate Lab Portal](https://researchgate.net)
+
+
 ### 🧪 Code Integrity & Execution Lab
 * **`python-syntax-guard.yml`** — Rapid pre-compilation check to trap syntax anomalies instantly.
 * **`auto-test-runner.yml`** — Boots virtual laboratories to run active test loops with genomic inputs.
