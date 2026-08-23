@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Professional Overview
-I am an aspiring **Bioinformatics Scientist and Data Analyst** currently pursuing a **B.Sc. (Hons.) Food Science & Technology** at Babasaheb Bhimrao Ambedkar University (BBAU). 
+I am an aspiring **Bioinformatics Scientist and Data Analyst** currently going for BSC hons food science course.
 
 Leveraging a strong algorithmic and computational foundation from a **CISCE (ICSE/ISC) academic background**, I bridge the gap between **wet-lab biological sciences** and **dry-lab data structures**. I use Python to engineer automated data pipelines that filter, clean, and analyze complex genomic, transcriptomic, and molecular sequence matrices.
 
