@@ -1,5 +1,5 @@
 
-🔗 **Live Interactive App:** [Launch DNA Analyzer](https://your-app-link.streamlit.app)
+
 🔗 **Live Interactive App:** [Launch DNA Analyzer](https://siddharth-lab-cmd-python-bioinformatics-basics-app-k9rrht.streamlit.app/)
 
 [![Streamlit App](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://siddharth-lab-cmd-python-bioinformatics-basics-app-k9rrht.streamlit.app/)
