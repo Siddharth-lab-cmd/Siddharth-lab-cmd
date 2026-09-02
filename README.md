@@ -7,7 +7,7 @@
 
 https://siddharth-lab-cmd-python-bioinformatics-basics-app-k9rrht.streamlit.app/
 
-Welcome to an advanced suite of production-grade computational biology tools. This repository features **32 custom scientific scripts** designed to parse genomic matrices, execute complex sequence alignments, and handle heavy data engineering workflows.
+Welcome to an advanced suite of production-grade computational biology tools. This repository features **36 custom scientific scripts** designed to parse genomic matrices, execute complex sequence alignments, and handle heavy data engineering workflows.
 
 ---
 
