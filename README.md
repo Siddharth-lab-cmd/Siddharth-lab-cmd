@@ -4,9 +4,9 @@
 
 # 🧬 Advanced Bioinformatics Script Hub
 
-[![GitHub Commits](https://shields.io)](https://github.com)
-[![Automation Workflows](https://shields.io)](https://github.com)
-[![Total Scripts](https://shields.io)](https://github.com)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-actual-app-link.streamlit.app)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Welcome to an advanced suite of production-grade computational biology tools. This repository features **32 custom scientific scripts** designed to parse genomic matrices, execute complex sequence alignments, and handle heavy data engineering workflows.
 
