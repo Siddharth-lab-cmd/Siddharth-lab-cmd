@@ -5,7 +5,7 @@
 # 🧬 Advanced Bioinformatics Script Hub
 
 [![Streamlit App](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://YOUR-ACTUAL-APP-LINK.streamlit.app)
-
+https://siddharth-lab-cmd-python-bioinformatics-basics-app-k9rrht.streamlit.app/
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-actual-app-link.streamlit.app)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
